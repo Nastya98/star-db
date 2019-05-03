@@ -1,0 +1,15 @@
+img{
+    max-width: 160px;
+    height: auto;
+    width: 100%;
+    border-radius: 7px;
+}
+.jumbotron{
+    padding: 20px 30px;
+}
+.term{
+    margin-right: 10px;
+}
+.u-margin-left{
+    margin-left: 30px;
+}
